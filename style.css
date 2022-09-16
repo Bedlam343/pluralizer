@@ -1,0 +1,446 @@
+body {
+  background: black; 
+}
+.color {
+  text-shadow: -4px 3px 15px violet; 
+}
+#U {
+  animation-name: U;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+  animation-delay: 0s; 
+}
+
+/*YUHHHHHHH*/
+@keyframes U{
+  0% {
+    color: red; 
+  }
+  2.5% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  52.5% {
+    color: red; 
+  }
+}
+#L {
+  animation-name: L;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+}
+@keyframes L{
+  0% {
+    color: red;
+  }
+  5% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  55% {
+    color: red; 
+  }
+}
+#T {
+  animation-name: T;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+}
+@keyframes T{
+  0% {
+    color: red;
+  }
+  7.5% {
+    color: white;
+  }
+  50% {
+    color: white; 
+  }
+  57.5% {
+    color: red; 
+  }
+ 
+}
+#I {
+  color: white; 
+  animation-name: I;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+}
+@keyframes I {
+  0% {
+  color: red; 
+  }
+  10% {
+  color: white;
+  }
+  50% {
+  color: white;
+  }
+  60% {
+    color: red;
+  }
+  70% {
+    color: red;
+  }
+  100% {
+    color: red;
+  }
+}
+#M {
+  animation-name: M;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+}
+@keyframes M{
+  0% {
+    color: red; 
+  }
+  12.5% {
+    color: white; 
+  }
+  50% {
+    color: white;
+  }
+  62.5% {
+    color: red;
+  }
+}
+
+#A {
+  animation-name: A;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes A{
+  0% {
+    color: red; 
+  }
+   15% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  65% {
+    color: red;
+  }
+}
+
+#T2 {
+  animation-name: T2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes T2{
+   0% {
+    color: red; 
+  }
+   17.5% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  67.5% {
+    color: red;
+  }
+}
+
+#E {
+  animation-name: E;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+} 
+@keyframes E{
+   0% {
+    color: red; 
+  }
+   20% {
+    color: white; 
+  }
+  50% {
+    color: white;
+  }
+  70% {
+    color: red;
+  }
+}
+
+#slash {
+  animation-name: slash; 
+  animation-duration: 6s; 
+  animation-iteration-count: infinite; 
+}
+@keyframes slash{
+  0% {
+    color: red;
+  }
+  22.5% {
+    color: white;
+  }
+  50% {
+    color: white;
+  }
+  72.5% {
+    color: red;
+  }
+}
+#P {
+  animation-name: P;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes P{
+   0% {
+    color: red; 
+  }
+   25% {
+    color: white; 
+  }
+  50% {
+    color: white;
+  }
+  75% {
+    color: red;
+  }
+}
+
+#L2 {
+  animation-name: L2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes L2 {
+   0% {
+    color: red; 
+  }
+   27.5% {
+    color: white; 
+  }
+   50% {
+    color: white;
+  }
+   77.5% {
+    color: red; 
+  }
+}
+
+#U2 {
+  animation-name: U2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes U2 {
+   0% {
+    color: red; 
+  }
+   30% {
+    color: white; 
+  }
+  50% {
+    color: white;
+  }
+  80% {
+    color: red;
+  }
+}
+
+#R {
+  animation-name: R;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes R {
+  0% {
+    color: red; 
+  }
+   32.5% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  82.5% {
+    color: red;
+  }
+}
+
+#A2 {
+  animation-name: A2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes A2{
+  0% {
+    color: red; 
+  }
+   35% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  85% {
+    color: red;
+  }
+}
+
+#L3 {
+  animation-name: L3;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; 
+}
+@keyframes L3{
+  0% {
+    color: red; 
+  }
+   37.5% {
+    color: white; 
+  }
+  50% {
+    color: white; 
+  }
+  87.5% {
+    color: red;
+  }
+}
+
+#I2 {
+  color: white;
+  animation-name: I2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+ @keyframes I2{
+  0% {
+    color: red;
+  }
+  40% {
+    color: white;
+  }
+  50% {
+    color: white;
+  }
+  90% {
+    color: red; 
+  }
+  100% {
+    color: red; 
+   }
+} 
+
+#Z {
+  animation-name: Z;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes Z{
+  0% {
+    color: red; 
+  }
+  42.5% {
+    color: white;
+  }
+  50% {
+    color: white;
+  }
+  92.5% {
+    color: red;
+  }
+}
+
+#E2 {
+  animation-name: E2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes E2{
+  0% {
+    color: red;
+  }
+  45% {
+    color: white;
+  }
+  50% {
+    color: white;
+  }
+  95% {
+    color: red;
+  }
+}
+
+#R2 {
+  animation-name: R2;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+@keyframes R2 {
+  0% {
+    color: red;
+  }
+  47.5% {
+    color: white;
+  }
+  50% {
+    color: white;
+  }
+  97.5% {
+    color: red;
+  }
+}
+/*yuhhhhhhhhhhhHHHHHHHH*/
+#in {
+    position: absolute; 
+  margin-left: 37%;
+    width: 500px; 
+}
+#container {
+  font-size: 2vw; 
+  font-family: sans-serif; 
+}
+#box {
+  position: relative;
+}
+
+#click {
+  position: relative; 
+  margin-left: 45%;
+  font-size: 15px; 
+  width: 200px; 
+  height: 50px; 
+  color: #14a885;
+  animation-name: click; 
+   background: #d12b1f; 
+  color: white;
+}
+#click:hover {
+  background: #d12b1f; 
+  color: white;
+  text-shadow: -2px 3px 2px black;
+  -moz-box-shadow:    inset 0 0 10px #000000;
+   -webkit-box-shadow: inset 0 0 10px #000000;
+   box-shadow:         inset 0 0 10px #000000;
+}
+
+#out {
+  font-family: sans-serif; 
+}
+
+h2 {
+  text-align: center; 
+  font-size: 40px; 
+ color: red;
+   font-family: sans-serif; 
+}
+
+#answer { 
+  font-size: 60px; 
+  text-align: center; 
+  color: white;
+  text-shadow: -3px 2px 3px #d11f4e;
+}
