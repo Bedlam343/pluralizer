@@ -1,0 +1,3 @@
+# pluralizer
+
+A silly high school project that does the very laborious task of pluralizing nouns for you so you can better spend your precious time elsewhere...
